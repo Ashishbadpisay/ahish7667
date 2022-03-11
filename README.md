@@ -18,3 +18,13 @@ else
 {
   console.log("nothings")
 }
+console.log("you get 20% discount")
+}
+else if(total_bill>discount_1)
+{
+  console.log("you get 10% discount")
+}
+else
+{
+  console.log("nothings")
+}
